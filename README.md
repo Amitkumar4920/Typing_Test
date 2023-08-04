@@ -12,9 +12,7 @@ This project was built using React.js and leverages modern web technologies to p
 
 [Live Demo](https://typingtest12.netlify.app/)
 
-
-![Typing Speed Checker Demo](https://i.ibb.co/nCmzBFR/Screenshot-2023-08-04-171613.png
-https://i.ibb.co/fDTGdRX/Screenshot-2023-08-04-171548.png)
+![Typing Speed Checker Demo](https://i.ibb.co/nCmzBFR/Screenshot-2023-08-04-171613.png)
 
 ## Features
 
