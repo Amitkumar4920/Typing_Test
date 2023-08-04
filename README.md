@@ -1,6 +1,11 @@
 # Typing Speed Checker React App
 
-![Typing Speed Checker Demo](https://i.ibb.co/fDTGdRX/Screenshot-2023-08-04-171548.png)
+<!-- Adjusted Image Size -->
+<p align="center">
+  <img src="https://i.ibb.co/fDTGdRX/Screenshot-2023-08-04-171548.png" alt="Typing Speed Checker Demo" width="50%" height="auto">
+</p>
+<!-- End of Adjusted Image Size -->
+
 
 ## Description
 
