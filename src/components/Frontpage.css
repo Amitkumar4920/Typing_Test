@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: wheat;
+    color: black
+  }
+  
+  .app-title {
+    font-size: 36px;
+    margin-top: 20px;
+  }
+  
+  .app-description {
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .app-description b {
+    font-weight: bold;
+  }
+  
+  .start-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
+  .start-button:hover {
+    background-color: #2980b9;
+  }
+  
+  .animation-container {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 30px;
+  }
+  
